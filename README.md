@@ -1,3 +1,3 @@
 # python-point-of-sale-system
-simple point of sale system in python.\n
-Work in progress
+This is a simple point of sale system in python.
+Completely a work in progress.
